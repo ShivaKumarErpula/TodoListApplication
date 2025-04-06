@@ -1,5 +1,8 @@
 To-Do List Application
 
+![image](https://github.com/user-attachments/assets/2fcb779d-0890-4d7b-9b8f-53f4b99320a7)
+
+
 Description
 
 This is a simple and interactive To-Do List application built using HTML, CSS, and JavaScript. It allows users to add, delete, and mark tasks as completed while storing tasks in the browser's local storage.
